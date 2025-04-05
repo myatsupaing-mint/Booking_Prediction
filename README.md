@@ -30,6 +30,5 @@ The dataset includes various booking attributes, such as:
 - **Programming Language**: Python  
 - **Libraries & Tools**:  
   - Data Processing: Pandas
-  - Visualization: Matplotlib, Seaborn  
   - Machine Learning: Scikit-learn  
   - Model Evaluation: Accuracy, Precision, recall, f1-score 
